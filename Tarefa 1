@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Curriculo</title>
+</head>
+<body>
+    <h1>
+        Davyd Jesus
+    </h1>
+    <h2 style="color: gray;">
+        Jovem Aprendiz
+    </h2>
+    <hr>
+    <h2>
+        Contato    
+    </h2>
+        <p style="background-color: darkgrey;">
+        <a style="color: black;" href="mailto: 00001104119900sp@al.educacao.sp.gov.br">00001104119900sp@al.educacao.sp.gov.br</a> 
+        <br>
+        <a style="color: black;" href="tel: +5511963382334">+55 11 9 6338-2334</a>
+        <br>
+        Rua Theodomiro Garcia, 613
+        <br>
+        CEP 05848-160
+        Jardim Germânia - São Paulo, SP
+        </p>
+     <h2 style="background-color: darkgrey;">
+        Qualificações
+     </h2>
+     <p>
+     <ul>
+        <li>
+            informática: Pacote Office
+        </li>
+        <li>
+            Organização
+        </li>
+        <li>
+            Responsabilidade
+        </li>
+        <li>
+            Fácil aprendizado
+        </li>
+    </ul>
+     </p>
+     <h2 style="background-color: darkgray;">
+        Formação Complementar
+     </h2>
+     <p>
+     <ul>
+        <p>
+        Pacote Office:
+        </p>
+        <li>
+            PowerPoint (Básico)
+        </li>
+        <li>
+            Word (Básico)
+        </li>
+        <li>
+            Excel (Básico)
+        </li>
+        <li>
+            CorelDraw (Básico)
+        </li>
+        <li>
+            Access (Básico)
+        </li>
+        <br>
+        <p>
+        Programação:
+        </p>
+        <li>
+            Lógica de Programação (Básico)
+        </li>
+     </ul>
+     </p>
+
+</body>
+</html>
